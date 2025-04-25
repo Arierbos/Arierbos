@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Sobreira!
 
-<!--
-**Arierbos/Arierbos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou UX Designer e estou aprendendo programação com foco em automações e projetos SaaS com IA. 🚀  
+Apaixonado por tecnologia, moda e cuscuz.
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias e ferramentas:
+- Python, JavaScript
+- Git e GitHub
+- Figma, Make, OpenAI API
+- Lovable, Firebase, Bolt
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Projetos em destaque:
+- [Agente de WhatsApp com IA](https://github.com/thiagosobreira/agente-whatsapp-ia)
+
+## 📫 Contato:
+- [LinkedIn](https://linkedin.com/in/thiagosobreira)
+- contato@sobreiraux.com.br
+
+---
+
+💡 “Design é resolver problemas com empatia, e código é a caneta que desenha soluções.”
